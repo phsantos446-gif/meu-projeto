@@ -14,7 +14,7 @@ const selectorsList = {
     },
     userFail: {
       username: 'teste',
-      password: 'teste'
+      password: 'teste12'
     }
   }
 
